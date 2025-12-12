@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Virtual environments
+venv/
+.venv/
+
+# Datasets (можеш додати конкретні файли, якщо треба)
+*.csv
+*.xlsx
+!sample_data.csv
+!test_data.xlsx
