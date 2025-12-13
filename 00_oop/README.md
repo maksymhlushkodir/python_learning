@@ -1,23 +1,42 @@
-# OOP (Об'єктно-орієнтоване програмування)
+# 📘 Object-Oriented Programming (OOP)
 
-## Статус: ❌ Не почато
+## Status: 🔄 In Progress
 
-## План навчання:
-- ❌ Тема 1
-- ❌ Тема 2
-- ❌ Тема 3
+---
 
-## Ресурси:
-- [Посилання 1](https://...)
-- [Посилання 2](https://...)
+### 🗺️ Learning Roadmap
 
-## Нотатки:
-<!-- Твої нотатки тут -->
+(This section tracks the specific sub-topics you need to cover.)
 
-## Проекти:
-1. Проект 1
-2. Проект 2
+* ⬜ Topic 1: [Sub-topic name, e.g., Classes and Objects]
+* ⬜ Topic 2: [Sub-topic name, e.g., Inheritance]
+* ⬜ Topic 3: [Sub-topic name, e.g., Polymorphism and Encapsulation]
+* ⬜ Topic 4: [Add more topics as needed]
 
-## Прогрес:
-Дата початку: 11/12/2025
-Дата завершення: __/__/____
+---
+
+### 🔗 Resources
+
+(List the specific tutorials, books, or documentation links you are using for this topic.)
+
+* [Link 1: Official Python Docs on Classes](https://...)
+* [Link 2: Video Tutorial on OOP Principles](https://...)
+
+---
+
+### 🏗️ Projects
+
+(List the practical projects or exercises you plan to build using this knowledge.)
+
+1.  Project 1: [A Simple Class Example, e.g., 'A Bank Account Class']
+2.  Project 2: [A Project requiring Inheritance, e.g., 'Animal Shelter System']
+
+---
+
+### 📅 Progress Log
+
+| Metric | Details    |
+| :--- |:-----------|
+| **Start Date** | 2025-12-11 |
+| **Target Completion** | __/__/____ |
+| **Actual Completion** | __/__/____ |

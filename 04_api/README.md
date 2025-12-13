@@ -1,23 +1,43 @@
-# API (Application Programming Interface)
+# API
 
-## Статус: ❌ Не почато
+## Status: ❌ Does not start
 
-## План навчання:
-- ❌ Тема 1
-- ❌ Тема 2
-- ❌ Тема 3
+---
 
-## Ресурси:
-- [Посилання 1](https://...)
-- [Посилання 2](https://...)
+### 🗺️ Learning Roadmap
 
-## Нотатки:
-<!-- Твої нотатки тут -->
+(This section tracks the specific sub-topics you need to cover.)
 
-## Проекти:
-1. Проект 1
-2. Проект 2
+* ⬜ Topic 1: []
+* ⬜ Topic 2: []
+* ⬜ Topic 3: []
+* ⬜ Topic 4: []
 
-## Прогрес:
-Дата початку: __/__/____
-Дата завершення: __/__/____
+---
+
+### 🔗 Resources
+
+(List the specific tutorials, books, or documentation links you are using for this topic.)
+
+* [Link 1: ](https://...)
+* [Link 2: ](https://...)
+
+---
+
+### 🏗️ Projects
+
+(List the practical projects or exercises you plan to build using this knowledge.)
+
+1.  Project 1: []
+2.  Project 2: []
+
+---
+
+### 📅 Progress Log
+
+| Metric | Details |
+| :--- | :--- |
+| **Start Date** | __/__/____ |
+| **Target Completion** | __/__/____ |
+| **Actual Completion** | __/__/____ |
+

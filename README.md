@@ -1,44 +1,58 @@
 # 🐍 Python Learning Journey
 
-Це моя структура для навчання Python!
+A structured repository detailing my path to mastering Python programming.
 
-## 📚 Теми для вивчення:
+---
 
-- **00_oop** - Об'єктно-орієнтоване програмування
-- **01_gui** - Графічний інтерфейс (PyGame, Tkinter)
-- **02_data_analysis** - Аналіз даних (Pandas, NumPy)
-- **03_camera_audio** - Робота з камерою та звуком
-- **04_api** - REST API, Flask
-- **05_algorithms** - Алгоритми та структури даних
-- **06_mini_projects** - Міні-проекти (CLI та GUI)
+## 📚 Study Topics Breakdown
 
-## 🎯 Мої цілі:
+This repository is organized into directories, each representing a key area of study.
 
-1. Вивчити ООП
-2. Створити GUI додатки
-3. Працювати з даними
-4. Зробити власні проекти
+| Directory | Topic | Description |
+| :--- | :--- | :--- |
+| `00_oop` | **Object-Oriented Programming (OOP)** | Classes, inheritance, polymorphism, and encapsulation principles. |
+| `01_gui` | **Graphical User Interfaces (GUI)** | Development using libraries like PyGame and Tkinter. |
+| `02_data_analysis` | **Data Analysis** | Working with essential libraries (Pandas, NumPy). |
+| `03_camera_audio` | **Camera & Audio** | Exploring multimedia handling and processing. |
+| `04_api` | **API Development** | Building and interacting with RESTful APIs (e.g., using Flask). |
+| `05_algorithms` | **Algorithms & Data Structures** | Implementing fundamental algorithms and structures. |
+| `06_mini_projects` | **Mini-Projects** | Practical implementation of small Command-Line Interface (CLI) and GUI applications. |
 
-## 📊 Загальний прогрес:
+---
 
-- [ ] OOP
-- [ ] GUI
-- [ ] Data Analysis
-- [ ] Camera & Audio
-- [ ] API
-- [ ] Algorithms
-- [ ] Mini Projects
+## 🎯 My Learning Goals
 
-## 📝 Корисні ресурси:
+* Master OOP concepts.
+* Develop functional GUI applications.
+* Gain experience working with data manipulation and analysis.
+* Successfully complete personal projects to solidify knowledge.
 
-Всі ресурси знаходяться в папці `resources/`
+---
 
-## 🚀 Як використовувати:
+## 📊 Overall Progress
 
-1. Обери тему для вивчення
-2. Читай теорію в папці `theory/`
-3. Дивись приклади в `examples/`
-4. Практикуйся з `exercises/`
-5. Створюй проекти в `projects/`
+(You can use Emojis here to indicate progress, e.g., ✅ or ⏳)
 
-Успіхів у навчанні! 💪
+* `00_oop`: (Add your progress status here)
+* `01_gui`: (Add your progress status here)
+* `02_data_analysis`: (Add your progress status here)
+* `03_camera_audio`: (Add your progress status here)
+* `04_api`: (Add your progress status here)
+* `05_algorithms`: (Add your progress status here)
+* `06_mini_projects`: (Add your progress status here)
+
+---
+
+## 💡 How to Use This Repository
+
+This structure is designed for focused learning:
+
+1.  **Choose a Topic** (e.g., `00_oop`).
+2.  Read the **Theory** in the respective `theory/` subdirectory.
+3.  Review the **Examples** in the `examples/` subdirectory.
+4.  Practice with **Exercises** found in the `exercises/` subdirectory.
+5.  Create your own **Projects** in the `projects/` subdirectory.
+
+## 🔗 Resources
+
+All study materials and useful links are located in the `resources/` folder.
