@@ -31,8 +31,6 @@ This repository is organized into directories, each representing a key area of s
 
 ## 📊 Overall Progress
 
-(You can use Emojis here to indicate progress, e.g., ✅ or ⏳)
-
 * `00_oop`: (Add your progress status here)
 * `01_gui`: (Add your progress status here)
 * `02_data_analysis`: (Add your progress status here)
