@@ -8,14 +8,14 @@ A structured repository detailing my path to mastering Python programming.
 
 This repository is organized into directories, each representing a key area of study.
 
-| Directory | Topic | Description |
-| :--- | :--- | :--- |
-| `00_oop` | **Object-Oriented Programming (OOP)** | Classes, inheritance, polymorphism, and encapsulation principles. |
-| `01_gui` | **Graphical User Interfaces (GUI)** | Development using libraries like PyGame and Tkinter. |
-| `02_data_analysis` | **Data Analysis** | Working with essential libraries (Pandas, NumPy). |
-| `03_camera_audio` | **Camera & Audio** | Exploring multimedia handling and processing. |
-| `04_api` | **API Development** | Building and interacting with RESTful APIs (e.g., using Flask). |
-| `05_algorithms` | **Algorithms & Data Structures** | Implementing fundamental algorithms and structures. |
+| Directory | Topic | Description                                                                          |
+| :--- | :--- |:-------------------------------------------------------------------------------------|
+| `00_oop` | **Object-Oriented Programming (OOP)** | Classes, inheritance, polymorphism, and encapsulation principles.                    |
+| `01_gui` | **Graphical User Interfaces (GUI)** | Development using libraries like PyGame, Tkinter and CustomTkinter.                               |
+| `02_data_analysis` | **Data Analysis** | Working with essential libraries (Pandas, NumPy).                                    |
+| `03_camera_audio` | **Camera & Audio** | Exploring multimedia handling and processing.                                        |
+| `04_api` | **API Development** | Building and interacting with RESTful APIs (e.g., using Flask).                      |
+| `05_algorithms` | **Algorithms & Data Structures** | Implementing fundamental algorithms and structures.                                  |
 | `06_mini_projects` | **Mini-Projects** | Practical implementation of small Command-Line Interface (CLI) and GUI applications. |
 
 ---
