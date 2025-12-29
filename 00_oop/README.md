@@ -1,10 +1,10 @@
-# 📘 Object-Oriented Programming (OOP)
+# Object-Oriented Programming (OOP)
 
-## Status: 🔄 In Progress
+## Status: In Progress
 
 ---
 
-### 🗺️ Learning Roadmap
+### Learning Roadmap
 
 * ⬜ Topic 1: [Sub-topic name, e.g., Classes and Objects]
 * ⬜ Topic 2: [Sub-topic name, e.g., Inheritance]
@@ -13,21 +13,21 @@
 
 ---
 
-### 🔗 Resources
+### Resources
 
-* [Link 1: Official Python Docs on Classes](https://...)
-* [Link 2: Video Tutorial on OOP Principles](https://...)
+* [Link 1: Official Python Docs on Classes](https://docs.python.org/3/tutorial/classes.html)
+* [Link 2: Video Tutorial on OOP Principles](https://www.youtube.com/watch?v=cM_ocyOrs_k&list=PLoXn3FpCTH1gn8uaVmmMt_DItd84Tlnj0)
 
 ---
 
-### 🏗️ Projects
+### Projects
 
 1.  Project 1: [A Simple Class Example, e.g., 'A Bank Account Class']
 2.  Project 2: [A Project requiring Inheritance, e.g., 'Animal Shelter System']
 
 ---
 
-### 📅 Progress Log
+### Progress Log
 
 | Metric | Details    |
 | :--- |:-----------|

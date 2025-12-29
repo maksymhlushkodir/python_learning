@@ -1,10 +1,10 @@
-# GUI
+# GUI (CustomTkinter)
 
-## Status: ❌ Does not start
+## Status: In Progress
 
 ---
 
-### 🗺️ Learning Roadmap
+### Learning Roadmap
 
 * ⬜ Topic 1: []
 * ⬜ Topic 2: []
@@ -13,24 +13,24 @@
 
 ---
 
-### 🔗 Resources
+### Resources
 
-* [Link 1: ](https://...)
-* [Link 2: ](https://...)
+* [Link 1: Official Docs on CustomTkinter](https://customtkinter.tomschimansky.com/documentation/)
+* [Link 2: Official Tutorial on CustomTkinter](https://customtkinter.tomschimansky.com/tutorial/)
 
 ---
 
-### 🏗️ Projects
+### Projects
 
 1.  Project 1: []
 2.  Project 2: []
 
 ---
 
-### 📅 Progress Log
+### Progress Log
 
-| Metric | Details |
-| :--- | :--- |
-| **Start Date** | __/__/____ |
+| Metric | Details    |
+| :--- |:-----------|
+| **Start Date** | 29/12/2025 |
 | **Target Completion** | __/__/____ |
 | **Actual Completion** | __/__/____ |
