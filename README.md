@@ -1,10 +1,10 @@
-# 🐍 Python Learning Journey
+# Python Learning Journey
 
 A structured repository detailing my path to mastering Python programming.
 
 ---
 
-## 📚 Study Topics Breakdown
+## Study Topics Breakdown
 
 This repository is organized into directories, each representing a key area of study.
 
@@ -20,7 +20,7 @@ This repository is organized into directories, each representing a key area of s
 
 ---
 
-## 🎯 My Learning Goals
+## My Learning Goals
 
 * Master OOP concepts.
 * Develop functional GUI applications.
@@ -29,7 +29,7 @@ This repository is organized into directories, each representing a key area of s
 
 ---
 
-## 📊 Overall Progress
+## Overall Progress
 
 * `00_oop`: (Add your progress status here)
 * `01_gui`: (Add your progress status here)
@@ -41,7 +41,7 @@ This repository is organized into directories, each representing a key area of s
 
 ---
 
-## 💡 How to Use This Repository
+## How to Use This Repository
 
 This structure is designed for focused learning:
 
@@ -51,6 +51,6 @@ This structure is designed for focused learning:
 4.  Practice with **Exercises** found in the `exercises/` subdirectory.
 5.  Create your own **Projects** in the `projects/` subdirectory.
 
-## 🔗 Resources
+## Resources
 
 All study materials and useful links are located in the `resources/` folder.
