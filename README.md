@@ -41,16 +41,6 @@ This repository is organized into directories, each representing a key area of s
 
 ---
 
-## How to Use This Repository
-
-This structure is designed for focused learning:
-
-1.  **Choose a Topic** (e.g., `00_oop`).
-2.  Read the **Theory** in the respective `theory/` subdirectory.
-3.  Review the **Examples** in the `examples/` subdirectory.
-4.  Practice with **Exercises** found in the `exercises/` subdirectory.
-5.  Create your own **Projects** in the `projects/` subdirectory.
-
 ## Resources
 
 All study materials and useful links are located in the `resources/` folder.
