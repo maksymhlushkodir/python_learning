@@ -2,12 +2,11 @@ import customtkinter as ctk
 from .task import Task
 
 class ToDoApp(ctk.CTk):
-    def __init__(self, tasks: list=None, task: Task=None):
+    def __init__(self, tasks: list=None):
         super().__init__()
         self.tasks = tasks
         if tasks is None:
             self.tasks = []
-        self.task = task
 
         # App
         self.title('To-Do List')
